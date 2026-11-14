@@ -1,0 +1,13 @@
+{
+  "spider": "",
+  "sites": [],
+  "lives": [
+    {
+      "name": "tv-iptv",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/elanchou/tv-iptv/main/playlist.m3u"
+    }
+  ],
+  "parses": [],
+  "wallpaper": ""
+}
