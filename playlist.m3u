@@ -47,10 +47,10 @@ https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" group-title="纪录片 Documentary",Smithsonian Channel
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="纪录片 Documentary",Nat Geo Wild
-http://116.90.120.149:8000/play/a11h/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="纪录片 Documentary",National Geographic
-http://116.90.120.149:8000/play/a115/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="纪录片 Documentary",Nat Geo Wild
+https://fs.uplink.kz/nat_geo_wild/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="NationalGeographic.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="纪录片 Documentary",National Geographic
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
 #EXTINF:-1 tvg-id="RealWild.uk@SD" tvg-logo="https://i.imgur.com/T9HHmAO.png" group-title="纪录片 Documentary",Real Wild
 https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTV.py@SD" tvg-logo="https://i.imgur.com/dAMyExY.jpg" group-title="纪录片 Documentary",Cosmos
@@ -63,8 +63,8 @@ https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-logo="https://i.imgur.com/q8BENJg.png" group-title="体育 Sports",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="体育 Sports",Eurosport 1
-https://s7.iptv-24.net/1439/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@France" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="体育 Sports",Eurosport 1
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@France" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="体育 Sports",Eurosport 2
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="体育 Sports",beIN SPORTS XTRA
@@ -99,12 +99,12 @@ http://181.224.255.210:8001/play/a0rq/index.m3u8
 http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun
 #EXTINF:-1 tvg-id="Cartoonito.it@HD" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="动画少儿 Kids",Cartoonito
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="动画少儿 Kids",Nickelodeon
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.nl@HD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="动画少儿 Kids",Nickelodeon
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3652339071
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/KT4tdQs.png" group-title="动画少儿 Kids",Nick Jr.
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL_HD/images/LOGO_HD/image.png" group-title="动画少儿 Kids",Disney Channel
-http://116.90.120.149:8000/play/a11r/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.pl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="动画少儿 Kids",Disney Channel
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="动画少儿 Kids",Disney Junior
 http://88.212.15.50/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="BabySharkTV.us@SD" tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="动画少儿 Kids",Baby Shark TV
@@ -123,8 +123,8 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 tvg-id="CCTV14.cn@HD" tvg-logo="https://i.imgur.com/c5SXW7i.png" group-title="动画少儿 Kids",CCTV-14 少儿
 http://74.91.26.218:82/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="音乐 Music",MTV
-http://116.90.120.149:8000/play/a136/index.m3u8
+#EXTINF:-1 tvg-id="MTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" group-title="音乐 Music",MTV
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="VevoHipHop.us@SD" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="音乐 Music",Vevo Hip Hop
 https://d3vgs3ro3x6v8a.cloudfront.net/Vevo_Hip_Hop.m3u8
 #EXTINF:-1 tvg-id="VevoLatino.us@SD" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="音乐 Music",Vevo Latino
@@ -187,14 +187,14 @@ http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-logo="https://i.imgur.com/pFIMLsA.png" group-title="台湾 Taiwan",Dali TV
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="Good2.tw@SD" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="台湾 Taiwan",Good 2
+https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="台湾 Taiwan",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-logo="https://i.imgur.com/QqIdVqz.png" group-title="台湾 Taiwan",Taiwan Indigenous TV
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 tvg-id="WXTV.tw@SD" tvg-logo="https://i.imgur.com/s8tiTeb.png" group-title="台湾 Taiwan",WXTV
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-logo="https://i.imgur.com/1CdGSbU.png" group-title="台湾 Taiwan",Hakka TV
-https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 #EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="美国 USA",3ABN Latino
 http://138.59.177.78:9999/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="美国 USA",48 Hours
@@ -285,10 +285,10 @@ https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png" group-title="澳洲 Australia",Mr Bean Animated
 https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="加拿大 Canada",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="加拿大 Canada",Az Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="加拿大 Canada",C Malayalam TV
-https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="加拿大 Canada",CBC News Network
 https://aka-live1050.delivery.roku.com/0c24a9ef-e9c3-485c-bf68-3f1ae5ef3e85/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" group-title="加拿大 Canada",Doyel TV
